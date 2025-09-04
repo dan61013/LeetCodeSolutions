@@ -14,6 +14,7 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 | [0595-big-countries](https://github.com/dan61013/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/dan61013/LeetCodeSolutions/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/dan61013/LeetCodeSolutions/tree/master/1268-market-analysis-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dan61013/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/dan61013/LeetCodeSolutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dan61013/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
