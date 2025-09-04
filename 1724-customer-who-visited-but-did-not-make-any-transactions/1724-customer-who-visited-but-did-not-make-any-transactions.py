@@ -11,8 +11,7 @@ def find_customers(visits: pd.DataFrame, transactions: pd.DataFrame) -> pd.DataF
     merge_df = merge_df[merge_df['transaction_id'].isna()]
     # groupby each customerID and count NULL
     cnt_ser = merge_df.groupby(
-        by=['customer_id'],
-        dropna=False
+        by=['customer_id']
     ).agg(count_no_trans=('transaction_id', lambda x: x.isna().sum()))
 
     return cnt_ser.reset_index()
