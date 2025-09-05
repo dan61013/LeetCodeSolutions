@@ -24,4 +24,5 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 | [1801-average-time-of-process-per-machine](https://github.com/dan61013/LeetCodeSolutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/dan61013/LeetCodeSolutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dan61013/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/dan61013/LeetCodeSolutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
