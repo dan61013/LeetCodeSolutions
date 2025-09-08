@@ -38,4 +38,12 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dan61013/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/dan61013/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/dan61013/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
