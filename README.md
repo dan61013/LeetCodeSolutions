@@ -34,11 +34,13 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dan61013/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/dan61013/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dan61013/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dan61013/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/dan61013/LeetCodeSolutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dan61013/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
