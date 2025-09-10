@@ -41,9 +41,14 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dan61013/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/dan61013/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/dan61013/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/dan61013/LeetCodeSolutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
