@@ -47,6 +47,7 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 | ------- |
 | [0001-two-sum](https://github.com/dan61013/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/dan61013/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
+| [2058-concatenation-of-array](https://github.com/dan61013/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Updated LeetCode solutions by [LeetHub-3.0](https://github.com/raphaelheinz/Leet
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/dan61013/LeetCodeSolutions/tree/master/2128-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/dan61013/LeetCodeSolutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
